@@ -1,0 +1,7 @@
+ html, body{
+    margin: 40px;
+ }
+
+.err {
+    border: 2px solid red;
+}
